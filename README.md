@@ -61,13 +61,13 @@
 
 *Example:*
 
-<u>if code.psi (example input text file name) contains:</u>
+<ins>if code.psi (example input text file name) contains:</ins>
 
 hi:=hello+25; /\*addition \*/
 
 hello++; /\*increment\*/
 
-<u>code.lex would be:</u>
+<ins>code.lex would be:</ins>
 
 Identifier(hi)
 
