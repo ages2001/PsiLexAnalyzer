@@ -30,8 +30,6 @@
 - RightSquareBracket: ]
 - LeftCurlyBracket:  { 
 - RightCurlyBracket:  }
-<br>
-<br>
 - Example Token: LeftCurlyBracket
 
 5- String constants
