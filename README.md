@@ -24,9 +24,9 @@
 
 4- Brackets
 
-- LeftPar: ( &nbsp; RightPar: )
-- LeftSquareBracket: [ &nbsp; RightSquareBracket: ]
-- LeftCurlyBracket:  { &nbsp; RightCurlyBracket:  }
+- LeftPar: ( &nbsp; &nbsp; &nbsp; RightPar: )
+- LeftSquareBracket: [ &nbsp; &nbsp; RightSquareBracket: ]
+- LeftCurlyBracket:  { &nbsp; &nbsp; RightCurlyBracket:  }
 - Example Token: LeftCurlyBracket
 
 5- String constants
