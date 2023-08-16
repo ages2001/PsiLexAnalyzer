@@ -24,9 +24,14 @@
 
 4- Brackets
 
-- LeftPar: ( &nbsp; &nbsp; &nbsp; RightPar: )
-- LeftSquareBracket: [ &nbsp; &nbsp; RightSquareBracket: ]
-- LeftCurlyBracket:  { &nbsp; &nbsp; RightCurlyBracket:  }
+- LeftPar: (
+- RightPar: )
+- LeftSquareBracket: [
+- RightSquareBracket: ]
+- LeftCurlyBracket:  { 
+- RightCurlyBracket:  }
+<br>
+<br>
 - Example Token: LeftCurlyBracket
 
 5- String constants
@@ -38,11 +43,9 @@
 
 6- Keywords:
 
-- Keywords are: break,case,char,const,continue,do,else,enum,float,for,goto,if,int,
+- Keywords are: break,case,char,const,continue,do,else,enum,float,for,goto,if,int,long,record,return,static,while
 
-long,record,return,static,while
-
-- Psi++ language is not case sensitive and all the keywords are standardized as lower case. You can write the same word as “while” OR “While” OR “WHILE” and they all generate the 
+- Psi++ language is not case sensitive and all the keywords are standardized as lower case. You can write the same word as “while” OR “While” OR “WHILE” and they all generate the same thing.
 - Example Token: Keyword(while)
 
 7- End of line:  ;
