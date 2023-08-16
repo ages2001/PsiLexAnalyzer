@@ -87,7 +87,7 @@ Operator(++)
 
 EndOfLine
 
-\---------------------------------------------------------------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------------
 
 **The Program accepts a source text file and produces a text file named as code.lex that contains all the tokens of the code.lex listed one after the other.** 
 
