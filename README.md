@@ -1,3 +1,5 @@
+# Psi++ Lexical Analyzer with C99
+
 **Programming Languages Project**: Lexical Analyzer for Psi++
 
 *Lexical rules for the programming language Psi++ are as follows:*
@@ -22,9 +24,9 @@
 
 4- Brackets
 
-- LeftPar: (       			RightPar: )
-- LeftSquareBracket: [		RightSquareBracket: ]
-- LeftCurlyBracket:  {		RightCurlyBracket:  }
+- LeftPar: ( &nbsp; RightPar: )
+- LeftSquareBracket: [ &nbsp; RightSquareBracket: ]
+- LeftCurlyBracket:  { &nbsp; RightCurlyBracket:  }
 - Example Token: LeftCurlyBracket
 
 5- String constants
